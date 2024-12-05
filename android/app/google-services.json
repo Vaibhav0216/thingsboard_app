@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695178229987",
+    "project_id": "crystal-vision-6a398",
+    "storage_bucket": "crystal-vision-6a398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695178229987:android:23cc2d05b3216b6810add6",
+        "android_client_info": {
+          "package_name": "org.thingsboard.pe.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsL3oLP-LxVevpTmHbiO_SKjHzpRmdAWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
